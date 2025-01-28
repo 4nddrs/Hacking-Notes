@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos de Linux.md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos de Linux"
+              "title": "5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos de Linux.md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Comandos de Linux"
+              "title": "Enlaces entrantes de 5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos de Linux.md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Comandos de Linux"
+              "title": "Enlaces salientes de 5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos de Linux.md"
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Comandos de Linux"
+              "title": "Esquema de 5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
             }
           },
           {
@@ -173,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "565f9eeff677a4da",
+  "active": "cc5ac3cf7a86f93e",
   "lastOpenFiles": [
+    "Comandos de Linux.md",
     "~$mandos BSPWM y Kitty.webarchive",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/1. Enumeración del servicio FTP.md"
