@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Enumeración del servicio SMB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
+              "title": "4. Enumeración del servicio SMB"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Enumeración del servicio SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
+              "title": "Enlaces entrantes de 4. Enumeración del servicio SMB"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Enumeración del servicio SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
+              "title": "Enlaces salientes de 4. Enumeración del servicio SMB"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md"
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Enumeración del servicio SMB.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de 5. Enumeración de gestores de contenido (CMS) – WordPress (1-2)"
+              "title": "Esquema de 4. Enumeración del servicio SMB"
             }
           },
           {
@@ -175,9 +175,9 @@
   },
   "active": "cc5ac3cf7a86f93e",
   "lastOpenFiles": [
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
     "Comandos de Linux.md",
     "~$mandos BSPWM y Kitty.webarchive",
-    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/1. Enumeración del servicio FTP.md"
   ]
 }
