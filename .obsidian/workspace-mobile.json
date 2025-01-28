@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "f78eeec871ab45f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e95406288e98ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd8ee59109ca59a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc517d0071af05ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ad15e1350f886060",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1f3087e62812bf25",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b7d9cc7b8b21e16f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "49656647992461ea",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3b9b2051e669732b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "853bdeb164e2ec9c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Comandos de Linux.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7e57f17c81fb6538",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "RECONOCIMIENTO/Nmap y sus diferentes modos de escaneo.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "993389f140fc59a7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "RECONOCIMIENTO/Nmap y sus diferentes modos de escaneo.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "ea3d5da31568c59b",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8dd8ee59109ca59a",
+  "lastOpenFiles": [
+    "5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
+    "Comandos de Linux.md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/6. Comandos comunes para la gestión de contenedores.md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/9.Despliegue de máquinas vulnerables con Docker-Compose (2 de 2).md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/5. Carga de instrucciones en Docker y desplegando nuestro primer contenedor.md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/7. Port Forwarding en Docker y uso de monturas.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/1. Enumeración del servicio FTP.md",
+    "Comandos BSPWM y Kitty.pdf",
+    "Tiers.md",
+    "Comandos BSPWM y Kitty.webarchive",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/3. Enumeración del servicio HTTP y HTTPS.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Enumeración del servicio SMB.md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/8. Despliegue de máquinas vulnerables con Docker-Compose (1-2).md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/2. Enumeración del servicio SSH.md",
+    "Untitled",
+    "5.",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/1. Introducción a Docker.md",
+    "1. CONCEPTOS BÁSICOS/Direcciones MAC (OUI y NIC).md",
+    "1. CONCEPTOS BÁSICOS/Subnetting – ¿Qué es y cómo se interpreta una máscara de red?.md",
+    "2. RECONOCIMIENTO/15. Google Dorks - Google Hacking (Los 18 Dorks más usados).md",
+    "2. RECONOCIMIENTO/14. Fuzzing y enumeración de archivos en un servidor web (2 de 2).md",
+    "2. RECONOCIMIENTO/9. Reconocimiento de imágenes.md",
+    "2. RECONOCIMIENTO/5. Alternativas para la enumeración de puertos usando descriptores de archivo.md",
+    "2. RECONOCIMIENTO/1. Nmap y sus diferentes modos de escaneo.md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/4. Creación y construcción de imágenesUntitled.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO",
+    "IMG_0190.png",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/3. Definiendo la estructura básica de Dockerfile.md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/2. Instalación de Docker en Linux.md",
+    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER",
+    "2. RECONOCIMIENTO/13. Fuzzing y enumeración de archivos en un servidor web (1 de 2).md",
+    "2. RECONOCIMIENTO/4. Creación de tus propios scripts en Lua para Nmap.md",
+    "2. RECONOCIMIENTO/2. Técnicas de evasión de Firewalls (MTU, Data Length, Source Port, Decoy, etc.).md",
+    "Network",
+    "2. RECONOCIMIENTO",
+    "1. CONCEPTOS BÁSICOS"
+  ]
+}
