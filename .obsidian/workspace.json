@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "-U",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "565f9eeff677a4da",
+  "active": "81932097b27db759",
   "lastOpenFiles": [
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/9.Despliegue de máquinas vulnerables con Docker-Compose (2 de 2).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/6. Enumeración de gestores de contenido (CMS) – WordPress (2-2).md",
