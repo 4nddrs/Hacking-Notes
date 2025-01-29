@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeración de gestores de contenido (CMS) – WordPress (2-2).md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/6. Enumeración de gestores de contenido (CMS) – WordPress (2-2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeración de gestores de contenido (CMS) – WordPress (2-2)"
+              "title": "6. Enumeración de gestores de contenido (CMS) – WordPress (2-2)"
             }
           }
         ],
@@ -188,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5c2ad7e72c970ee",
+  "active": "565f9eeff677a4da",
   "lastOpenFiles": [
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/9.Despliegue de máquinas vulnerables con Docker-Compose (2 de 2).md",
-    "Enumeración de gestores de contenido (CMS) – WordPress (2-2).md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/6. Enumeración de gestores de contenido (CMS) – WordPress (2-2).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. Enumeración de gestores de contenido (CMS) – WordPress (1-2).md",
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/6. Comandos comunes para la gestión de contenedores.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Enumeración del servicio SMB.md",
