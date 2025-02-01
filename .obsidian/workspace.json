@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "95c11d1183bdcedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/8. Enumeración de gestores de contenido (CMS) – Drupal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Enumeración de gestores de contenido (CMS) – Drupal"
+            }
+          },
+          {
             "id": "d85fda807b893912",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entorno virtual",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,8 +159,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,11 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74fd873f96c6ac4e",
+  "active": "565f9eeff677a4da",
   "lastOpenFiles": [
-    "Enumeración de gestores de contenido (CMS) – Drupal.md",
-    "Sin título 1.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/7. Enumeración de gestores de contenido (CMS) – Joomla.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/8. Enumeración de gestores de contenido (CMS) – Drupal.md",
+    "Sin título 1.md",
     "Comandos de Linux.md",
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/8. Despliegue de máquinas vulnerables con Docker-Compose (1-2).md",
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/6. Comandos comunes para la gestión de contenedores.md",
