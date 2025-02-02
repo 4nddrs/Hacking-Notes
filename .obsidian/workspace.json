@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/8. Enumeración de gestores de contenido (CMS) – Drupal.md",
+                "file": "9. Enumeración de gestores de contenido (CMS) – Magento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Enumeración de gestores de contenido (CMS) – Drupal"
+              "title": "9. Enumeración de gestores de contenido (CMS) – Magento"
             }
           },
           {
@@ -259,11 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "565f9eeff677a4da",
+  "active": "95c11d1183bdcedf",
   "lastOpenFiles": [
-    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/7. Enumeración de gestores de contenido (CMS) – Joomla.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/8. Enumeración de gestores de contenido (CMS) – Drupal.md",
-    "Sin título 1.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/7. Enumeración de gestores de contenido (CMS) – Joomla.md",
+    "9. Enumeración de gestores de contenido (CMS) – Magento.md",
     "Comandos de Linux.md",
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/8. Despliegue de máquinas vulnerables con Docker-Compose (1-2).md",
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/6. Comandos comunes para la gestión de contenedores.md",
