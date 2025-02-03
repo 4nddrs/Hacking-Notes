@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Conceptos básicos de enumeración y explotación/Sin título.md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/Toma de apuntes con Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Toma de apuntes con Obsidian"
             }
           },
           {
@@ -273,10 +273,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "565f9eeff677a4da",
+  "active": "f1ebeaa709f21b52",
   "lastOpenFiles": [
-    "5. Conceptos básicos de enumeración y explotación/1. Introducción a la explotación de vulnerabilidades.md",
     "5. Conceptos básicos de enumeración y explotación/Sin título.md",
+    "5. Conceptos básicos de enumeración y explotación/1. Introducción a la explotación de vulnerabilidades.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/Toma de apuntes con Obsidian.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/9. Magento.md",
     "1. CONCEPTOS BÁSICOS/Direcciones IP (IPV4 e IPV6).md",
