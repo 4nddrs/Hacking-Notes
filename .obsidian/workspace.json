@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/Toma de apuntes con Obsidian.md",
+                "file": "5. Conceptos básicos de enumeración y explotación/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toma de apuntes con Obsidian"
+              "title": "Sin título"
             }
           },
           {
@@ -273,8 +273,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1ebeaa709f21b52",
+  "active": "565f9eeff677a4da",
   "lastOpenFiles": [
+    "5. Conceptos básicos de enumeración y explotación/1. Introducción a la explotación de vulnerabilidades.md",
+    "5. Conceptos básicos de enumeración y explotación/Sin título.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/Toma de apuntes con Obsidian.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/9. Magento.md",
     "1. CONCEPTOS BÁSICOS/Direcciones IP (IPV4 e IPV6).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/2. Servicio SSH.md",
@@ -285,7 +288,6 @@
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. WordPress (1-2).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Servicio SMB.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/3. HTTP y HTTPS.md",
-    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/Toma de apuntes con Obsidian.md",
     "Comandos de Linux.md",
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/8. Despliegue de máquinas vulnerables con Docker-Compose (1-2).md",
     "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/6. Comandos comunes para la gestión de contenedores.md",
