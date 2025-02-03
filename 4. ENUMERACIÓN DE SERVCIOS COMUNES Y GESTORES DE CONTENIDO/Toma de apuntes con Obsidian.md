@@ -6,7 +6,7 @@ Además, Obsidian es altamente personalizable, lo que significa que puedes adapt
 
 Con Obsidian, puedes dejar atrás las complicadas carpetas y sistemas de archivos y tener todo lo que necesitas en una sola aplicación. Es una herramienta extremadamente útil y cómoda que te ayudará a ser más eficiente y efectivo en la gestión de tu información personal y profesional.
 
-A continuación, se os proporciona el enlace de descarga a esta utilidad:
+A continuación, se proporciona el enlace de descarga a esta utilidad:
 
 - **Obsidian**: [https://obsidian.md/download](https://obsidian.md/download)
 
