@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Conceptos básicos de enumeración y explotación/2. Reverse Shells, Bind Shells y Forward Shells.md",
+                "file": "5. Conceptos básicos de enumeración y explotación/3. Tipos de payloads (Staged y Non-Staged).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Reverse Shells, Bind Shells y Forward Shells"
+              "title": "3. Tipos de payloads (Staged y Non-Staged)"
             }
           },
           {
@@ -261,11 +261,11 @@
   },
   "active": "95c11d1183bdcedf",
   "lastOpenFiles": [
-    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/8. Drupal.md",
     "5. Conceptos básicos de enumeración y explotación/2. Reverse Shells, Bind Shells y Forward Shells.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/8. Drupal.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/9. Magento.md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/Toma de apuntes con Obsidian.md",
-    "5. Conceptos básicos de enumeración y explotación/Sin título.md",
+    "5. Conceptos básicos de enumeración y explotación/3. Tipos de payloads (Staged y Non-Staged).md",
     "5. Conceptos básicos de enumeración y explotación/1. Introducción a la explotación de vulnerabilidades.md",
     "1. CONCEPTOS BÁSICOS/Direcciones IP (IPV4 e IPV6).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/2. Servicio SSH.md",
