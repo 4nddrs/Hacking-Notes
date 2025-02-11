@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. CONCEPTOS BÁSICOS/Subnetting – Máscaras de subred, tipos de clase e interpretación de prefijos de red.md",
+                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/3. HTTP y HTTPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnetting – Máscaras de subred, tipos de clase e interpretación de prefijos de red"
+              "title": "3. HTTP y HTTPS"
             }
           },
           {
@@ -262,8 +262,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b2bd6d87c9b9cbf",
+  "active": "95c11d1183bdcedf",
   "lastOpenFiles": [
+    "1. CONCEPTOS BÁSICOS/Subnetting – Máscaras de subred, tipos de clase e interpretación de prefijos de red.md",
     "1. CONCEPTOS BÁSICOS/Subnetting – CIDRs y cálculo total de hosts.md",
     "1. CONCEPTOS BÁSICOS/Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
     "1. CONCEPTOS BÁSICOS/Direcciones MAC (OUI y NIC).md",
