@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/3. HTTP y HTTPS.md",
+                "file": "2. RECONOCIMIENTO/6. Descubrimiento de equipos en la red local (ARP e ICMP) y Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. HTTP y HTTPS"
+              "title": "6. Descubrimiento de equipos en la red local (ARP e ICMP) y Tips"
             }
           },
           {
@@ -264,10 +264,15 @@
   },
   "active": "95c11d1183bdcedf",
   "lastOpenFiles": [
+    "2. RECONOCIMIENTO/5. Alternativas para la enumeración de puertos usando descriptores de archivo.md",
+    "2. RECONOCIMIENTO/4. Creación de tus propios scripts en Lua para Nmap.md",
+    "2. RECONOCIMIENTO/3. Uso de Scripts y Categorías en Nmap para aplicar reconocimiento.md",
+    "2. RECONOCIMIENTO/2. Técnicas de evasión de Firewalls (MTU, Data Length, Source Port, Decoy, etc.).md",
+    "2. RECONOCIMIENTO/1. Nmap y sus diferentes modos de escaneo.md",
+    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/3. HTTP y HTTPS.md",
     "2. RECONOCIMIENTO/13. Fuzzing y enumeración de archivos en un servidor web (1 de 2).md",
     "2. RECONOCIMIENTO/10. Enumeración de sub-dominios.md",
     "2. RECONOCIMIENTO/11. Credenciales y brechas de seguridad.md",
-    "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/3. HTTP y HTTPS.md",
     "1. CONCEPTOS BÁSICOS/Subnetting – Máscaras de subred, tipos de clase e interpretación de prefijos de red.md",
     "1. CONCEPTOS BÁSICOS/Subnetting – CIDRs y cálculo total de hosts.md",
     "1. CONCEPTOS BÁSICOS/Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
@@ -285,10 +290,6 @@
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/6. WordPress (2-2).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/5. WordPress (1-2).md",
     "4. ENUMERACIÓN DE SERVCIOS COMUNES Y GESTORES DE CONTENIDO/4. Servicio SMB.md",
-    "Comandos de Linux.md",
-    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/8. Despliegue de máquinas vulnerables con Docker-Compose (1-2).md",
-    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/6. Comandos comunes para la gestión de contenedores.md",
-    "3. CONFIGURACIÓN DE LABORATORIOS LOCALES EN DOCKER/9.Despliegue de máquinas vulnerables con Docker-Compose (2 de 2).md",
     "~$mandos BSPWM y Kitty.webarchive"
   ]
 }
